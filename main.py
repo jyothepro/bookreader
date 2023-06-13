@@ -5,7 +5,7 @@ import sys
 import glob
 import os
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'OPEN_AI_API_KEY'
 
 def construct_index(directory_path):
   # set maximum input size
